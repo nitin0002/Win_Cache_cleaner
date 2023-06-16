@@ -8,8 +8,6 @@ Its purpose is to help users efficiently manage disk space by removing temporary
 
 - Remove Cache Whenever you want
 - No Hassle of going to %TEMP% folder
-- 
-## Installation
 
 ## Installation
 
